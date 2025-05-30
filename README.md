@@ -14,7 +14,7 @@ This assessment evaluates your **system design**, **database modeling**, and **b
 3. **Record your screen with Loom** (from start to finish).
 4. Submit by creating a **pull request from `dev` to `main`** and include the Loom video link.
 
-**⏱ Time Limit: 2 Hours**
+**⏱ Time Limit: 48 Hours**
 
 ---
 
